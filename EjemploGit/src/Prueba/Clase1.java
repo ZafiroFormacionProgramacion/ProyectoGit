@@ -1,4 +1,5 @@
 package Prueba;
+//IGnacio
 
 public class Clase1 {
 
@@ -6,7 +7,7 @@ public class Clase1 {
 		// TODO Auto-generated constructor stub
 	}
 
-	public static void main(String[] args) {		
+	public static void main(String[] args) {	
 
 	}
 
