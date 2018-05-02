@@ -1,5 +1,5 @@
 package Prueba;
-//IGnacio Núñez jj
+//IGnacio Núñez
 
 public class Clase1 {
 
